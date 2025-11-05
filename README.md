@@ -18,8 +18,6 @@ This project includes a **server** and a **client** that can communicate in real
 ---
 
 ## 💻 Project Structure
-CHAT/
-│
 ├── src/
 │ ├── Server.java
 │ └── Client.java
@@ -87,17 +85,7 @@ Close any process using port 9999
 Start the server before connecting clients.
 
 
-📈 Future Improvements
 
-Display a list of connected users (/list command)
-
-Support private messages (/msg username message)
-
-Save chat logs to a file
-
-GUI client using Swing or JavaFX
-
-Support network connections beyond localhost
 
 
 
